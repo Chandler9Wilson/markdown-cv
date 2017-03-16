@@ -12,17 +12,17 @@ title: Chandler Wilson CV
 
 ### Interested in
 
-UI/UX design, IOT interfaces, 3d printing, [building websites](chandler9wilson.com)
+UI/UX design, IOT interfaces, 3d printing, [building websites](https://chandler9wilson.com) (https://chandler9wilson.com)
 
 ## Education
 
-`2010 - 2015`
+`5/2015`
 __Harmony Science Academy__
 
-`2017 (expected)`
+`3/2017 (expected)`
 __Udacity__
 
-- Fronten Nanodegree
+- [Frontend Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) (https://www.udacity.com)
 
 ## Work Experience
 
@@ -37,7 +37,7 @@ Maintenance, Summit Christian Academy
 ## Other Experience
 
 `2011 - 2015`
-Team Captain, Robotics
+Team Captain, [FTC Robotics](https://www.firstinspires.org/robotics/ftc) (https://www.firstinspires.org/robotics/ftc)
 
 <!-- ### Footer
 
